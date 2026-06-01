@@ -18,7 +18,6 @@ api-projects/
 ├── real-time-currency-converter.py   # Live forex rates using ExchangeRate API
 ├── connect-api-using-python.py       # Pokémon data via PokéAPI
 ├── making-api-call.py                # Intro to GET requests with JSONPlaceholder
-├── first-api.py                      # Core API concepts & combined examples
 └── fastapi.py                        # Building REST APIs using FastAPI
 ```
 
@@ -79,14 +78,7 @@ Introductory example showing the complete anatomy of an API call — request, re
 
 ---
 
-### 🔗 4. First API — Combined Examples
-**File:** `first-api.py`
-
-A consolidated file containing all API practice examples written during the learning journey — currency converter, Pokémon fetcher, API call basics, and FastAPI endpoints in one place.
-
----
-
-### ⚡ 5. FastAPI — Build Your Own API
+### ⚡ 4. FastAPI — Build Your Own API
 **File:** `fastapi.py`
 
 Demonstrates how to **build** a REST API from scratch using FastAPI — the modern, high-performance Python framework.
