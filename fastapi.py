@@ -9,7 +9,7 @@ app = FastAPI()
 def hello_world():
     return {'Hello':'World'} 
 
-# 2nd
+# Other 
 from fastapi import FastAPI 
 app = FastAPI() 
 @app.get("/items/") 
