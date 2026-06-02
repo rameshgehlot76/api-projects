@@ -1,5 +1,5 @@
-# 1st API Example in Python  
-# Real-Time Currency Converter (With API) 
+# Real-Time Currency Converter(With API) 
+
 import requests 
 
 API_URL = "https://api.exchangerate-api.com/v4/latest/USD" 
@@ -18,6 +18,4 @@ if from_currency in rates and to_currency in rates:
     print(f"{amount} {from_currency} = {result:.2f} {to_currency}") 
 else:
     print("Invalid currency code")
-    
-    
     
