@@ -1,7 +1,6 @@
-# 2nd API Example 
 # How to connect to an API using Python 
-import requests 
 
+import requests 
 base_url = "https://pokeapi.co/api/v2/"
 
 def get_pokemon_info(name): 
@@ -20,8 +19,6 @@ def get_pokemon_info(name):
     else:
         print(f"Failed to retrieve data for {name}. Status code: {response.status_code}") 
 
-
-pokemon_name = input("Enter Pokemon name: ").lower()  
+pokemon_name = input("Enter Pokemon Name: ").lower()  
 get_pokemon_info(pokemon_name)           
-
 
