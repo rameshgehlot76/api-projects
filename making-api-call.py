@@ -1,4 +1,3 @@
-# 3rd API Example 
 # How to make an API call? 
 # Python example using the requests library:
 
@@ -17,5 +16,3 @@ if response.status_code == 200:
 else:
     print(f"Error: Unable to fetch data. Status code {response.status_code}") 
  
-
-
