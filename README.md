@@ -11,7 +11,6 @@
 ---
 
 ## 📁 Project Structure
-
 ```
 api-projects/
 │
