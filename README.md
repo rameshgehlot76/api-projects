@@ -10,7 +10,7 @@
 
 ---
 
-## 📁 Project Structure
+## 📁 Project Structure 
 ```
 api-projects/
 │
@@ -22,7 +22,7 @@ api-projects/
 
 ---
 
-## 🚀 Projects Overview
+## 🚀 Projects Overview 
 
 ### 💱 1. Real-Time Currency Converter
 **File:** `real-time-currency-converter.py`
