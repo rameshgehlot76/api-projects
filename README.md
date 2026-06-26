@@ -165,7 +165,7 @@ uvicorn fastapi:app --reload
 
 ---
 
-## 🙋‍♂️ Author
+## 👨‍💻 Author
 
 **Ramesh Gehlot**
 
@@ -173,7 +173,7 @@ uvicorn fastapi:app --reload
 
 ---
 
-> ⭐ If this helped you understand APIs better, consider giving this repo a star!
-
 Built with dedication 🚀
+
+> ⭐ If this helped you understand APIs better, consider giving this repo a star!
 
